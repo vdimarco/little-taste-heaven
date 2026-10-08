@@ -1,0 +1,11 @@
+audio/*
+!audio/.gitkeep
+renders/*
+!renders/.gitkeep
+analysis/*.npy
+analysis/*.wav
+analysis/*.mp3
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
